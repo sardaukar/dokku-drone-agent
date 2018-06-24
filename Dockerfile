@@ -1,0 +1,8 @@
+FROM drone/agent:0.8.5
+
+ARG DRONE_SECRET
+
+ENV DRONE_SERVER=drone-server.web.1:9000
+ENV DRONE_SECRET=$DRONE_SECRET
+
+ENTRYPOINT ["/bin/drone-agent"]
