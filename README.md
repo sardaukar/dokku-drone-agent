@@ -12,4 +12,4 @@ Steps:
 * `git push dokku`
 
 [here]: https://blog.nootch.net/2018/06/24/self-hosted-developer-bliss
-[is here]: https://github.com/sardaukar/dokku-drone-servers
+[is here]: https://github.com/sardaukar/dokku-drone-server
