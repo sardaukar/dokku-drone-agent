@@ -11,5 +11,5 @@ Steps:
 * `dokku docker-options:add run "--network drone_network"`
 * `git push dokku`
 
-[here]: https://blog.nootch.net/2018/06/24/self-hosted-developer-bliss
+[here]: https://blog.nootch.net/2018/06/24/self-hosted-developer-bliss/
 [is here]: https://github.com/sardaukar/dokku-drone-server
